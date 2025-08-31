@@ -191,6 +191,7 @@ body {
   max-width: 320px;
   width: 100%;
   margin: 0 auto;
+  border: inherit;
 
   padding: 18px;
   border-radius: 70px;
